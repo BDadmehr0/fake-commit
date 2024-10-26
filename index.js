@@ -29,6 +29,5 @@ const makeCommits = async (n) => {
     }
 };
 
-// Usage example
+// Usage example - change paramater
 makeCommits(312);
-
