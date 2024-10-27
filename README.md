@@ -5,7 +5,6 @@ This project simulates a series of Git commits over a span of time. It uses the 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 
